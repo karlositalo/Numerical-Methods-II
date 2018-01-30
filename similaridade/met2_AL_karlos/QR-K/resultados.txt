@@ -1,0 +1,5 @@
+Metodo QR
+matrix Entrada: 
+|13 0 0 |
+|0 21 9 |
+|0 9 20 |
